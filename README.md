@@ -63,5 +63,5 @@ poutcome: Hasil dari kampanye pemasaran sebelumnya (failure, nonexistent, succes
 
 y: Apakah klien telah berlangganan deposito berjangka? (yes, no).
 
-**Sumber Dataset: ** 
+**Sumber Dataset:** 
 https://www.kaggle.com/datasets/henriqueyamahata/bank-marketing/data
